@@ -1,0 +1,18 @@
+4
+T+ 0
+T 3
+T 0
+CNOT 3 1
+T 3
+T+ 0
+T 1
+H 3
+X 2
+T 3
+CNOT 3 0
+T+ 2
+T 0
+X 3
+T+ 1
+H 1
+CNOT 1 2
